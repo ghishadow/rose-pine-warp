@@ -23,5 +23,5 @@
 
 ## Thanks to
 
-- [You, it's you!](https://github.com/ghishadow)
+- [Me](https://github.com/ghishadow)
 
